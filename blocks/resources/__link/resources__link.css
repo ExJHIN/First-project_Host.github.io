@@ -1,0 +1,8 @@
+.resources__link {
+  text-align: center;
+}
+
+.resources__link:hover {
+  opacity: .3;
+  transition: .5s;
+}

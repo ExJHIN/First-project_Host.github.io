@@ -1,0 +1,9 @@
+.page {
+  min-width: 1100px;
+  max-width: 1600px;
+  margin: auto;
+  /* выше для экранов больше 1600px отцентрировали весь контент */
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+
