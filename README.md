@@ -6,4 +6,4 @@
 <p>Типовой одностраничный сайт, который рассказывает про различные техники обучения , мотивирует правильно обучаться, позволяет посмотреть видео про прокрастинацию, показывает реальную статистику косательно обучения, рассказывает про принципы обучения от Джоша Кауфмана, а также историю Барбары Оакли. Имеет ссылки на полезные ресурсы и лайфхаки.</p>
 <br>
 В проекте используется флексбокс-вёрстка, позиционирование и продвинутая семантика языка HTML, применяется методология БЭМ, используются псевдоклассы, медиасодержимое(iframe, video).
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ExJHIN&repo=First-project_Host.github.io)](https://github.com/ExJHIN/First-project_Host.github.io)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExJHIN)](https://github.com/anuraghazra/github-readme-stats)
